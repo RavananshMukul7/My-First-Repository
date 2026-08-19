@@ -1,0 +1,6 @@
+Day 1 Problems
+1. Two sum
+2. contains duplicate
+3. valid Annagram
+4. valid Palindrome
+5. Best time to buy and sell stocks

@@ -1,6 +1,0 @@
-// California Housing DataSet contains :
-1. 207 missing value -> total_bedroom ((1.002906976744186)%)
-2. it contains 0 duplicate values
-
-
-
